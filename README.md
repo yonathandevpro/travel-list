@@ -31,24 +31,24 @@ A simple and fun packing list application built with React.js. Plan your trips e
 
 1. Clone the repository:
 
-sh
-git clone https://github.com/yourusername/travel-list.git
-
+```sh
+git clone https://github.com/yonathandevpro/travel-list.git
+```
 2. Navigate to the project directory:
 
-sh
+```sh
 cd travel-list
-
+```
 3. Install dependencies:
 
-sh
+```sh
 npm install
-
+```
 4. Start the development server:
 
-sh
+```sh
 npm run dev
-
+```
 ## Usage
 
 1. Open the application in your browser.
@@ -60,7 +60,7 @@ npm run dev
 
 ## Project Structure
 
-sh
+```sh
 TRAVEL-LIST/
 ├── public/
 │   └── index.html
@@ -76,7 +76,7 @@ TRAVEL-LIST/
 │   └── main.jsx
 ├── package.json
 └── vite.config.js
-
+```
 ### public/index.html
 
 The main HTML file that includes the root div for rendering the React application.
@@ -124,19 +124,19 @@ Contributions are welcome! Please fork this repository and submit a pull request
 1. Fork the Project.
 2. Create your feature branch:
 
-sh
+```sh
 git checkout -b feature/AmazingFeature
-
+```
 3. Commit your changes:
 
-sh
+```sh
 git commit -m 'Add some AmazingFeature'
-
+```
 4. Push to the branch:
 
-sh
+```sh
 git push origin feature/AmazingFeature
-
+```
 5. Open a pull request.
 
 ## License
@@ -146,5 +146,6 @@ Distributed under the MIT License.
 ## Collaborations
 
 Email me if you want to work together at:
-sh
-your-email@example.com
+```sh
+yonathanber@icloud.com
+```
